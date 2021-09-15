@@ -1,4 +1,3 @@
-# getfext-in-c
 Example Using;
 void main()
 {
@@ -7,4 +6,4 @@ getfext("encryptedfile.exe.kfed", sss);
 printf("%s", sss);
 }
 
-# Printed = .kfed
+Printed = .kfed
